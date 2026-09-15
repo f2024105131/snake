@@ -1,0 +1,17 @@
+# build output
+build/
+bin/
+cmake-build-*/
+*.o
+*.d
+
+# local game data
+highscores.txt
+highscores.txt.tmp
+
+# editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+compile_commands.json
